@@ -7,7 +7,7 @@ Este repositorio contiene:
 - Un jupyther notebook con los códigos utilizados (`shakespeareAnalysis.ipynb`)
 - Un .txt con los requisitos para ejecutar el notebook (`requirements.txt`)
 - Un pdf con el informe completo mostrando los resultados obtenidos (`Informe-AnalisisResultados.pdf`)
-- `/data` con los archivos .csv generados en el código y la lista stopwords.txt utilizada
+- `data/` con los archivos .csv generados en el código y la lista stopwords.txt utilizada
 
 El trabajo se realizó en diferentes etapas:
 1. Cargado y lectrua de datos
