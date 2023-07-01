@@ -3,14 +3,11 @@
 ### Tarea 1 y Tarea 2
 ### Autoras: Ana Cortazzo y Luciana Olazábal 
 
-Este repositorio contiene dos carpetas:
-
-- Tarea 1
-
-    -- Un jupyther notebook con los códigos utilizados para la Tarea 1 (`shakespeareAnalysis.ipynb`)
-    -- Un .txt con los requisitos para ejecutar el notebook (`requirements.txt`)
-    -- Un pdf con el informe de la tarea 1 mostrando los resultados obtenidos (`Informe-AnalisisResultados.pdf`)
-    -- `/data` con los archivos .csv generados en el código y la lista stopwords.txt utilizada
+Este repositorio contiene:
+- Un jupyther notebook con los códigos utilizados (`shakespeareAnalysis.ipynb`)
+- Un .txt con los requisitos para ejecutar el notebook (`requirements.txt`)
+- Un pdf con el informe completo mostrando los resultados obtenidos (`Informe-AnalisisResultados.pdf`)
+- `/data` con los archivos .csv generados en el código y la lista stopwords.txt utilizada
 
 - Tarea 2
 
