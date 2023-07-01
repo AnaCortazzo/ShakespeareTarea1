@@ -13,8 +13,8 @@ Este repositorio contiene dos carpetas:
 
 - Tarea 2
 
-    -- Un jupyther notebook con los códigos utilizados para la Tarea 2 (`shashakespeare_AA_tarea_2.ipynb`)
-    -- Un pdf con el informe completo mostrando los resultados obtenidos en ambas partes de la tarea (`InformeCompleto.pdf`)
+    - Un jupyther notebook con los códigos utilizados para la Tarea 2 (`shashakespeare_AA_tarea_2.ipynb`)
+    - Un pdf con el informe completo mostrando los resultados obtenidos en ambas partes de la tarea (`InformeCompleto.pdf`)
 
 El trabajo se realizó en diferentes etapas:
 
