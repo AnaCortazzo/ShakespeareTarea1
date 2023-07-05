@@ -15,6 +15,7 @@ Este repositorio contiene dos carpetas:
 
     - Un jupyther notebook con los códigos utilizados para la Tarea 2 (`shashakespeare_AA_tarea_2.ipynb`)
     - Un pdf con el informe completo mostrando los resultados obtenidos en ambas partes de la tarea (`InformeCompleto.pdf`)
+    - `/data` con los archivos .csv generados en el código y los .txt utilizados por fasttext
 
 El trabajo se realizó en diferentes etapas:
 
