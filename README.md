@@ -1,6 +1,6 @@
 # Shakespeare
 ### Introducción a la Ciencia de Datos (Fing, 2023)
-### Tarea 1 y Tarea 2
+### Tarea 1, Tarea 2 y Proyecto Final
 ### Autoras: Ana Cortazzo y Luciana Olazábal 
 
 Este repositorio contiene dos carpetas:
@@ -16,6 +16,8 @@ Este repositorio contiene dos carpetas:
     - Un jupyther notebook con los códigos utilizados para la Tarea 2 (`shashakespeare_AA_tarea_2.ipynb`)
     - Un pdf con el informe completo mostrando los resultados obtenidos en ambas partes de la tarea (`InformeCompleto.pdf`)
     - `/data` con los archivos .csv generados en el código y los .txt utilizados por fasttext
+
+Además contiene la prouesta de proyecto final: "Detección de riesgo académico en estudiantes universitarios" (`ProyFinal_Cortazzo_Olazabal.pdf`)
 
 El trabajo se realizó en diferentes etapas:
 
